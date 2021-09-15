@@ -1,149 +1,49 @@
-Team_Name,Team_Index,Entity_Code,Entity_index,theta,alpha_s,beta,S_prime,,,
-Baseline,0,R,1,0.36,0.26,0.34,17,,,
-Baseline,0,w,2,0.36,0.26,0.34,17,,,
-Baseline,0,D,3,0.36,0.26,0.34,17,,,
-Baseline,0,F,4,0.36,0.26,0.34,17,,,
-Bassbeer,1,R,1,0.9,0.1,0.65,20,,,
-Bassbeer,1,w,2,0,0.25,0.5,27,,,
-Bassbeer,1,D,3,0.15,0.05,0.35,14,,,
-Bassbeer,1,F,4,1,0.65,0.4,15,,,
-Budweiser,2,R,1,0,0.4,0.1,7,,,
-Budweiser,2,w,2,0,0.4,0.75,30,,,
-Budweiser,2,D,3,0,0.3,0.1,10,,,
-Budweiser,2,F,4,0.25,0.25,0.1,9,,,
-Coors,3,R,1,0,0.2,0,25,,,
-Coors,3,w,2,0,0.15,0.5,38,,,
-Coors,3,D,3,0.9,0.3,0.2,10,,,
-Coors,3,F,4,0.25,0.3,0,18,,,
-Free beer,4,R,1,0.4,0.35,0.45,15,,,
-Free beer,4,w,2,0.3,0.05,0,30,,,
-Free beer,4,D,3,0.05,0.35,1,18,,,
-Free beer,4,F,4,0.25,0.25,0,19,,,
-Grin  & Beer It,5,R,1,0.1,0.35,0.65,13,,,
-Grin  & Beer It,5,w,2,0.95,0.15,0.55,14,,,
-Grin  & Beer It,5,D,3,0.2,0.2,0.3,19,,,
-Grin  & Beer It,5,F,4,0.25,0.35,0.55,24,,,
-Grizzly,6,R,1,0.05,0.3,0.65,31,,,
-Grizzly,6,w,2,0.3,0.2,0.35,27,,,
-Grizzly,6,D,3,0.15,0.05,0.25,15,,,
-Grizzly,6,F,4,0.55,0.65,0,9,,,
-Heinekenl,7,R,1,0.95,0.15,0,9,,,
-Heinekenl,7,w,2,0.5,0,,,,,
-Heinekenl,7,D,3,0.2,0.3,0.05,8,,,
-Heinekenl,7,F,4,0.8,0,,,,,
-Heineken2,8,R,1,0.5,0.05,0.6,6,,,
-Heineken2,8,w,2,0.4,0.1,0.3,16,,,
-Heineken2,8,D,3,1,0.15,0.8,14,,,
-Heineken2,8,F,4,0.55,0.8,0,9,,,
-Heineken3,9,R,1,0.05,0.3,0.45,5,,,
-Heineken3,9,w,2,0.2,0,,,,,
-Heineken3,9,D,3,0.3,0.1,0.9,12,,,
-Heineken3,9,F,4,0,0.3,0.15,17,,,
-Suds,10,R,1,1,0,,,,,
-Suds,10,w,2,0.05,0.3,0.2,20,,,
-Suds,10,D,3,0.15,0.6,0.35,0,,,
-Suds,10,F,4,0.4,0.35,1.05,32,,,
-Twoborg,11,R,1,0.75,0.35,0,4,,,
-Twoborg,11,w,2,0,0.25,0.05,18,,,
-Twoborg,11,D,3,0.05,0.5,0,15,,,
-Twoborg,11,F,4,0.95,0.3,0.2,26,,,
-Amp Optimized - BFGS - Entity 1,12,R,1,0.025787867,0.073903508,0,29.53961061,,,
-Amp Optimized - BFGS - Entity 1,12,w,2,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 1,12,D,3,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 1,12,F,4,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 2,13,R,1,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 2,13,w,2,0.009346487,0.115206628,0,24.8364543,,,
-Amp Optimized - BFGS - Entity 2,13,D,3,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 2,13,F,4,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 3,14,R,1,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 3,14,w,2,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 3,14,D,3,1.978889629,0.0364851,14.56295615,174.4448557,,,
-Amp Optimized - BFGS - Entity 3,14,F,4,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 4,15,R,1,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 4,15,w,2,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 4,15,D,3,0.36,0.26,0.34,17,,,
-Amp Optimized - BFGS - Entity 4,15,F,4,1.930753493,0.026816026,31.33777811,405.4023513,,,
-Amp Optimized - CG - Entity 1,16,R,1,0.013859664,0.096650625,-0.755684395,17.14467812,,,
-Amp Optimized - CG - Entity 1,16,w,2,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 1,16,D,3,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 1,16,F,4,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 2,17,R,1,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 2,17,w,2,0.999029776,-0.545421612,0.753305272,16.78412352,,,
-Amp Optimized - CG - Entity 2,17,D,3,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 2,17,F,4,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 3,18,R,1,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 3,18,w,2,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 3,18,D,3,-0.00899362,0.761767554,0.496012141,16.98211991,,,
-Amp Optimized - CG - Entity 3,18,F,4,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 4,19,R,1,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 4,19,w,2,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 4,19,D,3,0.36,0.26,0.34,17,,,
-Amp Optimized - CG - Entity 4,19,F,4,1.248223599,0.853071119,1.071559229,17.32414971,,,
-Amp Optimized - NM - Entity 1,20,R,1,0.255634349,-0.19086597,0.812950405,13.53615247,,,
-Amp Optimized - NM - Entity 1,20,w,2,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 1,20,D,3,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 1,20,F,4,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 2,21,R,1,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 2,21,w,2,0.000203062,0.038385985,-5.08128574,26.00071663,,,
-Amp Optimized - NM - Entity 2,21,D,3,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 2,21,F,4,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 3,22,R,1,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 3,22,w,2,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 3,22,D,3,1.880824286,0.092831323,4.99877453,57.57674601,,,
-Amp Optimized - NM - Entity 3,22,F,4,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 4,23,R,1,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 4,23,w,2,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 4,23,D,3,0.36,0.26,0.34,17,,,
-Amp Optimized - NM - Entity 4,23,F,4,1.947282242,0.325509947,2.437310789,39.39541072,,,
-Cost  Optimized - BFGS - Entity 1,24,R,1,0.00056586,0.248568088,0,16.95719289,,,
-Cost  Optimized - BFGS - Entity 1,24,w,2,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 1,24,D,3,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 1,24,F,4,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 2,25,R,1,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 2,25,w,2,0.007676134,0.31455899,0,17.01745095,,,
-Cost  Optimized - BFGS - Entity 2,25,D,3,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 2,25,F,4,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 3,26,R,1,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 3,26,w,2,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 3,26,D,3,2.137990381,0.601065445,0.763774929,17.24872906,,,
-Cost  Optimized - BFGS - Entity 3,26,F,4,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 4,27,R,1,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 4,27,w,2,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 4,27,D,3,0.36,0.26,0.34,17,,,
-Cost  Optimized - BFGS - Entity 4,27,F,4,1.836039265,1.958578752,0.555310164,17.06022006,,,
-Cost  Optimized - CG - Entity 1,28,R,1,-0.002352009,0.281042557,0.095832472,17.03758529,,,
-Cost  Optimized - CG - Entity 1,28,w,2,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 1,28,D,3,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 1,28,F,4,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 2,29,R,1,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 2,29,w,2,0.003162306,0.356197179,0.080301604,17.04055516,,,
-Cost  Optimized - CG - Entity 2,29,D,3,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 2,29,F,4,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 3,30,R,1,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 3,30,w,2,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 3,30,D,3,2.127736387,0.640982911,0.760346578,17.04694313,,,
-Cost  Optimized - CG - Entity 3,30,F,4,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 4,31,R,1,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 4,31,w,2,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 4,31,D,3,0.36,0.26,0.34,17,,,
-Cost  Optimized - CG - Entity 4,31,F,4,1.197171301,1.262213894,0.51882307,17.04002995,,,
-Cost  Optimized - NM - Entity 1,32,R,1,0.029489055,0.014917258,-11.61515595,24.11284818,,,
-Cost  Optimized - NM - Entity 1,32,w,2,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 1,32,D,3,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 1,32,F,4,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 2,33,R,1,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 2,33,w,2,2.231311192,0.005596729,-1.957202418,191.9798527,,,
-Cost  Optimized - NM - Entity 2,33,D,3,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 2,33,F,4,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 3,34,R,1,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 3,34,w,2,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 3,34,D,3,1.981048669,0.667004915,1.850554313,37.02184443,,,
-Cost  Optimized - NM - Entity 3,34,F,4,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 4,35,R,1,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 4,35,w,2,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 4,35,D,3,0.36,0.26,0.34,17,,,
-Cost  Optimized - NM - Entity 4,35,F,4,1.812661147,1.683236172,0.37125178,12.77409965,,,
-Cost Optimized - BFGS - All entities,36,R,1,0.00056586,0.248568088,0,16.95719289,,,
-Cost Optimized - BFGS - All entities,36,w,2,0.000726073,0.131060621,3.00E-05,36.5859591,,,
-Cost Optimized - BFGS - All entities,36,D,3,2.13655427,0.602058428,0.768042961,17.24976064,,,
-Cost Optimized - BFGS - All entities,36,F,4,1.836039265,1.958578752,0.555310164,17.06022006,,,
+Team_Name,Team_Index,Entity_Code,Entity_index,theta,alpha_s,beta,S_prime
+Baseline,0,R,1,0.36,0.26,0.34,17
+Baseline,0,w,2,0.36,0.26,0.34,17
+Baseline,0,D,3,0.36,0.26,0.34,17
+Baseline,0,F,4,0.36,0.26,0.34,17
+Bassbeer,1,R,1,0.9,0.1,0.65,20
+Bassbeer,1,w,2,0,0.25,0.5,27
+Bassbeer,1,D,3,0.15,0.05,0.35,14
+Bassbeer,1,F,4,1,0.65,0.4,15
+Budweiser,2,R,1,0,0.4,0.1,7
+Budweiser,2,w,2,0,0.4,0.75,30
+Budweiser,2,D,3,0,0.3,0.1,10
+Budweiser,2,F,4,0.25,0.25,0.1,9
+Coors,3,R,1,0,0.2,0,25
+Coors,3,w,2,0,0.15,0.5,38
+Coors,3,D,3,0.9,0.3,0.2,10
+Coors,3,F,4,0.25,0.3,0,18
+Free beer,4,R,1,0.4,0.35,0.45,15
+Free beer,4,w,2,0.3,0.05,0,30
+Free beer,4,D,3,0.05,0.35,1,18
+Free beer,4,F,4,0.25,0.25,0,19
+Grin  & Beer It,5,R,1,0.1,0.35,0.65,13
+Grin  & Beer It,5,w,2,0.95,0.15,0.55,14
+Grin  & Beer It,5,D,3,0.2,0.2,0.3,19
+Grin  & Beer It,5,F,4,0.25,0.35,0.55,24
+Grizzly,6,R,1,0.05,0.3,0.65,31
+Grizzly,6,w,2,0.3,0.2,0.35,27
+Grizzly,6,D,3,0.15,0.05,0.25,15
+Grizzly,6,F,4,0.55,0.65,0,9
+Heinekenl,7,R,1,0.95,0.15,0,9
+Heinekenl,7,w,2,0.5,0,,
+Heinekenl,7,D,3,0.2,0.3,0.05,8
+Heinekenl,7,F,4,0.8,0,,
+Heineken2,8,R,1,0.5,0.05,0.6,6
+Heineken2,8,w,2,0.4,0.1,0.3,16
+Heineken2,8,D,3,1,0.15,0.8,14
+Heineken2,8,F,4,0.55,0.8,0,9
+Heineken3,9,R,1,0.05,0.3,0.45,5
+Heineken3,9,w,2,0.2,0,,
+Heineken3,9,D,3,0.3,0.1,0.9,12
+Heineken3,9,F,4,0,0.3,0.15,17
+Suds,10,R,1,1,0,,
+Suds,10,w,2,0.05,0.3,0.2,20
+Suds,10,D,3,0.15,0.6,0.35,0
+Suds,10,F,4,0.4,0.35,1.05,32
+Twoborg,11,R,1,0.75,0.35,0,4
+Twoborg,11,w,2,0,0.25,0.05,18
+Twoborg,11,D,3,0.05,0.5,0,15
+Twoborg,11,F,4,0.95,0.3,0.2,26

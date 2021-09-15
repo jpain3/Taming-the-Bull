@@ -1,0 +1,113 @@
+Team_Name,Team_Index,Entity_Code,Entity_index,theta,alpha_s,beta,S_prime
+Baseline,0,R,1,0.36,0.26,0.34,17
+Baseline,0,w,2,0.36,0.26,0.34,17
+Baseline,0,D,3,0.36,0.26,0.34,17
+Baseline,0,F,4,0.36,0.26,0.34,17
+Bassbeer,1,R,1,0.9,0.1,0.65,20
+Bassbeer,1,w,2,0,0.25,0.5,27
+Bassbeer,1,D,3,0.15,0.05,0.35,14
+Bassbeer,1,F,4,1,0.65,0.4,15
+Budweiser,2,R,1,0,0.4,0.1,7
+Budweiser,2,w,2,0,0.4,0.75,30
+Budweiser,2,D,3,0,0.3,0.1,10
+Budweiser,2,F,4,0.25,0.25,0.1,9
+Coors,3,R,1,0,0.2,0,25
+Coors,3,w,2,0,0.15,0.5,38
+Coors,3,D,3,0.9,0.3,0.2,10
+Coors,3,F,4,0.25,0.3,0,18
+Free beer,4,R,1,0.4,0.35,0.45,15
+Free beer,4,w,2,0.3,0.05,0,30
+Free beer,4,D,3,0.05,0.35,1,18
+Free beer,4,F,4,0.25,0.25,0,19
+Grin  & Beer It,5,R,1,0.1,0.35,0.65,13
+Grin  & Beer It,5,w,2,0.95,0.15,0.55,14
+Grin  & Beer It,5,D,3,0.2,0.2,0.3,19
+Grin  & Beer It,5,F,4,0.25,0.35,0.55,24
+Grizzly,6,R,1,0.05,0.3,0.65,31
+Grizzly,6,w,2,0.3,0.2,0.35,27
+Grizzly,6,D,3,0.15,0.05,0.25,15
+Grizzly,6,F,4,0.55,0.65,0,9
+Heinekenl,7,R,1,0.95,0.15,0,9
+Heinekenl,7,w,2,0.5,0,,
+Heinekenl,7,D,3,0.2,0.3,0.05,8
+Heinekenl,7,F,4,0.8,0,,
+Heineken2,8,R,1,0.5,0.05,0.6,6
+Heineken2,8,w,2,0.4,0.1,0.3,16
+Heineken2,8,D,3,1,0.15,0.8,14
+Heineken2,8,F,4,0.55,0.8,0,9
+Heineken3,9,R,1,0.05,0.3,0.45,5
+Heineken3,9,w,2,0.2,0,,
+Heineken3,9,D,3,0.3,0.1,0.9,12
+Heineken3,9,F,4,0,0.3,0.15,17
+Suds,10,R,1,1,0,,
+Suds,10,w,2,0.05,0.3,0.2,20
+Suds,10,D,3,0.15,0.6,0.35,0
+Suds,10,F,4,0.4,0.35,1.05,32
+Twoborg,11,R,1,0.75,0.35,0,4
+Twoborg,11,w,2,0,0.25,0.05,18
+Twoborg,11,D,3,0.05,0.5,0,15
+Twoborg,11,F,4,0.95,0.3,0.2,26
+Cost Opt - BFGS - Entity 1,12,R,1,0.000951817,0.32395907,1,28.44479544
+Cost Opt - BFGS - Entity 1,12,w,2,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 1,12,D,3,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 1,12,F,4,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 2,13,R,1,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 2,13,w,2,1,0.333661158,1,37.46925965
+Cost Opt - BFGS - Entity 2,13,D,3,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 2,13,F,4,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 3,14,R,1,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 3,14,w,2,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 3,14,D,3,1,0.067491704,1,69.03067199
+Cost Opt - BFGS - Entity 3,14,F,4,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 4,15,R,1,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 4,15,w,2,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 4,15,D,3,0.36,0.26,0.34,17
+Cost Opt - BFGS - Entity 4,15,F,4,1,1,0.630851535,35.58391999
+Cost Opt - BFGS - Stable Start - Entity 1,16,R,1,0.000571666,0.300470961,0.994069214,30.25208959
+Cost Opt - BFGS - Stable Start - Entity 1,16,w,2,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 1,16,D,3,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 1,16,F,4,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 2,17,R,1,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 2,17,w,2,1,0.307992678,1,44.52140987
+Cost Opt - BFGS - Stable Start - Entity 2,17,D,3,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 2,17,F,4,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 3,18,R,1,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 3,18,w,2,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 3,18,D,3,1,0.048042617,1,88.56100611
+Cost Opt - BFGS - Stable Start - Entity 3,18,F,4,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 4,19,R,1,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 4,19,w,2,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 4,19,D,3,0.36,0.26,0.34,17
+Cost Opt - BFGS - Stable Start - Entity 4,19,F,4,1,1,0.598851405,39.69304799
+Amp Opt - BFGS - Entity 1,20,R,1,0.046416614,0.04411199,0,33.04418223
+Amp Opt - BFGS - Entity 1,20,w,2,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 1,20,D,3,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 1,20,F,4,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 2,21,R,1,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 2,21,w,2,0.000711188,0.062906669,0.999983348,63.84311402
+Amp Opt - BFGS - Entity 2,21,D,3,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 2,21,F,4,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 3,22,R,1,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 3,22,w,2,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 3,22,D,3,1,0.028399577,1,119.8575333
+Amp Opt - BFGS - Entity 3,22,F,4,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 4,23,R,1,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 4,23,w,2,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 4,23,D,3,0.36,0.26,0.34,17
+Amp Opt - BFGS - Entity 4,23,F,4,1,0.124610336,1,66.278038
+Amp Opt - BFGS - Stable Start - Entity 1,24,R,1,0.046416614,0.04411199,0,33.04418223
+Amp Opt - BFGS - Stable Start - Entity 1,24,w,2,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 1,24,D,3,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 1,24,F,4,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 2,25,R,1,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 2,25,w,2,0.000711188,0.062906669,0.999983348,63.84311402
+Amp Opt - BFGS - Stable Start - Entity 2,25,D,3,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 2,25,F,4,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 3,26,R,1,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 3,26,w,2,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 3,26,D,3,1,0.028399577,1,119.8575333
+Amp Opt - BFGS - Stable Start - Entity 3,26,F,4,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 4,27,R,1,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 4,27,w,2,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 4,27,D,3,0.36,0.26,0.34,17
+Amp Opt - BFGS - Stable Start - Entity 4,27,F,4,1,0.124610336,1,66.278038
